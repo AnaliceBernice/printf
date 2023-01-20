@@ -1,6 +1,6 @@
 #include "main.h"
 
-/************************* WRITE HANDLE *************************/
+/************************ WRITE HANDLE ************************/
 /**
  * handle_write_char - Prints a string
  * @c: char types.
@@ -8,7 +8,7 @@
  * @flags: Calculates active flags.
  * @width: get width.
  * @precision: precision specifier
- * @size: Size specifier
+ * @size: Size specifier.
  *
  * Return: Number of chars printed.
  */
