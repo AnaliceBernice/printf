@@ -1,4 +1,4 @@
-[![MIT license](https://img.shields.io/github/license/bhalut/Tropical-Puzzle.svg)](https://github.com/AnaliceBernice/Tropical-Puzzle/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/github/license/bhalut/Tropical-Puzzle.svg)](https://github.com/AnaliceBernice/printf/blob/master/LICENSE)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 # 0x11. C - Printf
