@@ -22,7 +22,7 @@ Write your own `printf` function.
 
 *^ In this picture, [Kris](https://alx-intranet.hbtn.io/rltoken/pSPZEmqi5O8ZoeLM5-65WA "Kris"), and [Jul](https://alx-intranet.hbtn.io/rltoken/X_vDffLlUpbtqnubfnQx8Q "Jul")*
 
-## Resources
+Resources
 ---------
 
 **Read or watch**:
@@ -52,10 +52,9 @@ This is a customized implementation of the `printf` function, which prints a str
 
 ## Authors :copyright:
 
-* **Bernice Cobbinah** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaliceBernice)
-
+* **Bernice Cobbinah** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaliceBernice)</br>
 * **Hamza Abdullahi** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzayawa)
 
-## LICENSE
-
+LICENSE
+-------
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details!
