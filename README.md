@@ -1,3 +1,6 @@
+[![MIT license](https://img.shields.io/github/license/bhalut/Tropical-Puzzle.svg)](https://github.com/AnaliceBernice/Tropical-Puzzle/blob/master/LICENSE)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 # 0x11. C - Printf
 
 Concepts
@@ -52,3 +55,7 @@ This is a customized implementation of the `printf` function, which prints a str
 * **Bernice Cobbinah** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaliceBernice)
 
 * **Hamza Abdullahi** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzayawa)
+
+## LICENSE
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details!
