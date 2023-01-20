@@ -52,9 +52,9 @@ This is a customized implementation of the `printf` function, which prints a str
 
 ## Authors :copyright:
 
-* **Bernice Cobbinah** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaliceBernice)</br>
-* **Hamza Abdullahi** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzayawa)
+:zap: **Bernice Cobbinah** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaliceBernice)</br>
+:zap: **Hamza Abdullahi** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzayawa)
 
-LICENSE
+:zap:LICENSE
 -------
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details!
